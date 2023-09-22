@@ -1,6 +1,6 @@
 - name: variables in ansible
-    host: mongodb
-    tasks:
-    - name: print hello world
-        ansible.builtin.debug:
-          msg: "Hello, I am learning Ansible"
+  host: mongodb
+  tasks:
+  - name: print hello world
+    ansible.builtin.debug:
+      msg: "Hello, I am learning Ansible"
