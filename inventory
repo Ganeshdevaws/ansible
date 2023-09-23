@@ -2,11 +2,12 @@
 172.35.36.96
 
 [mongodb]
-roboshop-us-dev-db-mongodb-01.ganeshdevaws.online
+172.31.33.183
 
 [mongodb:vars]
 MONGO_USERNAME=mongodbadmin
 MONGO_DB=categories
+NAME=sivakumar-inventory
 
 [mysql]
 roboshop-us-dev-db-mysql-01.ganeshdevaws.online
